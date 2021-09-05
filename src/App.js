@@ -1,5 +1,7 @@
 import classes from "./App.module.css";
 import Account from "./Components/Account/Account";
+import Cards from "./Components/Cards/Cards";
+import Teachers from "./Components/Teachers/Teachers";
 
 function App() {
   return (
@@ -7,6 +9,9 @@ function App() {
       <div className={classes.AppWindow}>
         <div className={classes.Sidebar}>
           <Account />
+          <Cards />
+
+          <Teachers />
         </div>
       </div>
     </div>

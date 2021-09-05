@@ -17,5 +17,8 @@
   width: 28rem;
   background-color: white;
   float: right;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
 

@@ -1,0 +1,12 @@
+.Teachers {
+  width: 90%;
+  margin: 1rem auto;
+}
+.Title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.Utility {
+  display: flex;
+  justify-content: space-between;
+}
