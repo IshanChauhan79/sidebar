@@ -1,0 +1,46 @@
+.Profile {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid black; */
+}
+.Icon {
+  /* border: 1px solid black; */
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  /* overflow: hidden; */
+  position: relative;
+}
+.Icon > img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.Name {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0 1rem;
+}
+.NameTitle {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+.NameDesc {
+  font-size: 1rem;
+}
+.Online{
+    position: absolute;
+    width:1rem;
+    height:1rem;
+    border-radius: 50%;
+    border:2px solid white;
+    background-color: rgb(39, 247, 39);
+    bottom:0;
+    left:0;
+    transform: translate(-20%, 20%);
+    z-index: 5;
+
+}
