@@ -1,0 +1,36 @@
+.Signup {
+  width: 90%;
+  margin: auto;
+}
+.SignupContainer {
+  position: relative;
+  width: 100%;
+  color: black;
+  padding: 1.5rem;
+  z-index: 15;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+}
+.DetailsBox {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Button {
+  margin-top: 1rem;
+  padding: 0.2rem 0.8rem;
+  padding-bottom: 0.4rem;
+  background-color: #f8cb1e;
+  display: inline;
+  border-radius:0.6rem;
+  color: white;
+}
+.Button:hover {
+    
+    background-color: #cfae28;
+
+  }

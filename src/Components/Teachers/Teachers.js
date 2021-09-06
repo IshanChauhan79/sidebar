@@ -3,7 +3,7 @@ import ProfileCard from "../ProfileCard/ProfileCard";
 import Profile from "../Ui/Profile/Profile";
 import Icons from "../Ui/Icons/Icons";
 import classes from "./Teachers.module.css";
-import profile from "../../assets/images/profile.jpg";
+import profile from "../../assets/images/pfp.jpg";
 
 function Teachers() {
   return (

@@ -9,7 +9,7 @@ function Training() {
       <div className={classes.TrainingCards}>
         <Cards
           background="#4998ff"
-          shadow="#b9d8ff"
+          shadow="#92c0fa"
           topic="Box"
           type="Box Club"
           topicTime="10:00"
@@ -20,7 +20,7 @@ function Training() {
         />
         <Cards
           background="#4998ff"
-          shadow="#b9d8ff"
+          shadow="#92c0fa"
           topic="Crossfit"
           type="Sports Club"
           topicTime="12:00"
