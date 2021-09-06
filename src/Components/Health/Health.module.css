@@ -1,0 +1,79 @@
+.Health {
+  width: 90%;
+  margin: auto;
+}
+.Title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.HealthStats {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.HealthStats > div {
+  border-left: 1px solid lightgray;
+  padding-left: 1rem;
+  width: 35%;
+}
+.HealthStats > div:first-child {
+  width: 30%;
+  padding-left: 0rem;
+  border-left: 0;
+}
+.Number {
+  font-size: 1.9rem;
+  font-weight: 600;
+}
+
+.Type {
+  margin: 0.4rem;
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+.Type > img {
+  height: 2rem;
+}
+.Type1 {
+  padding-left: 0.5rem;
+  color: #4F91FF;
+}
+.Type2 {
+  padding-left: 0.5rem;
+  color: #FF766A;
+}
+.Type3 {
+  padding-left: 0.5rem;
+  color: #6BCE60;
+}
+
+.Bar {
+  position: relative;
+  width: 90%;
+  background-color: lightgray;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+}
+.Bar > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+}
+.Bar1 {
+  background-color: #4F91FF;
+  width: 80%;
+}
+
+.Bar2 {
+  background-color: #FF766A;
+  width: 100%;
+}
+
+.Bar3 {
+  background-color: #6BCE60;
+  width: 60%;
+}

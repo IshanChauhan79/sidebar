@@ -20,7 +20,7 @@ function Teachers() {
         <div className={classes.Utility}>
           <Icons>
             <img
-              src="https://img.icons8.com/ios/50/000000/chat-message--v1.png"
+              src="https://img.icons8.com/ios/50/7C7D85/chat-message--v1.png"
               alt=""
             />
           </Icons>
@@ -38,7 +38,7 @@ function Teachers() {
         <div className={classes.Utility}>
           <Icons>
             <img
-              src="https://img.icons8.com/ios/50/000000/chat-message--v1.png"
+              src="https://img.icons8.com/ios/50/7C7D85/chat-message--v1.png"
               alt=""
             />
           </Icons>

@@ -18,7 +18,7 @@ function Account() {
         <div className={classes.Utility}>
           <Icons after="3">
             <img
-              src="https://img.icons8.com/material-outlined/24/000000/appointment-reminders--v1.png"
+              src="https://img.icons8.com/material-outlined/24/8F8E9C/appointment-reminders--v1.png"
               alt=""
             />
           </Icons>

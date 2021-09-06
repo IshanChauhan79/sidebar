@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-color: lightgray;
+  background-color: #e9efff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,7 +9,7 @@
   width: 90%;
   height: 95%;
   border-radius: 2rem;
-  background-color: rgb(238, 237, 237);
+  background-color: #fbfcff;
   overflow: hidden;
 }
 .Sidebar {
@@ -21,4 +21,3 @@
   justify-content: space-between;
   flex-direction: column;
 }
-

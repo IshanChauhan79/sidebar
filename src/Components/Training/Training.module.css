@@ -3,7 +3,7 @@
   padding: 1rem 5%;
   /* border: 1px solid black; */
   border-radius: 2rem;
-  background-image: linear-gradient(white, hsl(0, 0%, 87%))
+  background-image: linear-gradient(white, #F9FAFE)
 }
 .Title {
   font-size: 1.5rem;
