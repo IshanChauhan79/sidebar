@@ -1,21 +1,20 @@
 .CardsContainer {
   position: relative;
-  width: 90%;
+  width: 100%;
   margin: 2rem auto;
   font-size: 1.4rem;
-  /* overflow: hidden; */
 }
 .Cards {
   border: 2px solid white;
   width: 100%;
-  padding: 1rem 1.5rem;
+  padding: 1.2rem 1.5rem;
   border-radius: 1rem;
   display: flex;
   justify-content: space-between;
-  background-color: rgb(73, 152, 255);
   position: relative;
-  z-index: 10;
+  z-index: 15;
   color: white;
+
 }
 .Cards > div {
   display: flex;
@@ -24,9 +23,9 @@
 }
 
 .Type {
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 600;
-  margin: 0.3rem 0 1rem;
+  margin: 0.3rem 0 0.6rem;
 }
 .TopicTime {
   text-align: center;
@@ -45,17 +44,17 @@
   font-size: 2.2rem;
 }
 .Min {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 .Excercise {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 .Shadow {
   position: absolute;
   height: 100%;
   width: 95%;
   border-radius: 1rem;
-  background-color: rgb(185, 216, 255);
+  /* background-color: #b9d8ff; */
   top: 0.8rem;
   left: 2.5%;
   z-index: 5;

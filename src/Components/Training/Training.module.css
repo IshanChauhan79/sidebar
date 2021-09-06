@@ -1,0 +1,20 @@
+.Training {
+  width: 100%;
+  padding: 1rem 5%;
+  /* border: 1px solid black; */
+  border-radius: 2rem;
+  background-image: linear-gradient(white, hsl(0, 0%, 87%))
+}
+.Title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.Utility {
+  display: flex;
+  justify-content: space-between;
+}
+.TrainingCards {
+  width: 98%;
+  margin: auto;
+
+}
