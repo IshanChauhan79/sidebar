@@ -1,13 +1,11 @@
 .App {
-  height: 100vh;
-  background-color: #e9efff;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 2rem;
 }
 .AppWindow {
   width: 90%;
-  height: 95%;
   border-radius: 2rem;
   background-color: #fbfcff;
   overflow: hidden;
